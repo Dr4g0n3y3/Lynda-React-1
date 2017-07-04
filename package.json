@@ -1,0 +1,15 @@
+{
+  "name": "lynda-react-1",
+  "version": "0.0.1",
+  "description": "First-React-App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Serkan SIMSIR",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
